@@ -1,2 +1,2 @@
 # aoc2020
-Please read me. The End.
+Thanks for reading me. The End.
